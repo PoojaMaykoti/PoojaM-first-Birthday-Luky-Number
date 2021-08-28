@@ -19,7 +19,7 @@ function compareValues(sum,luckyNumber)
     }
     else
     {
-        outputBox.innerText=("Your birthday is not lucky 😂 ");
+        outputBox.innerText=("Your birthday is not lucky 😂");
     }
    }
 
@@ -39,7 +39,7 @@ function compareValues(sum,luckyNumber)
        else
        
       
-        outputBox.innerText="Please enter both the fields 😂"
+        outputBox.innerText="Please enter both the fields 😂";
     
 }
 

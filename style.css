@@ -59,8 +59,9 @@ input
      height: 50px;
      width: 38%;
      margin-left: 32%;
-     border-color: rgb(240, 135, 217);
+     border-color: white;
      margin-top: 2rem;
+     color: white;
 }
 #lucky-number
 {

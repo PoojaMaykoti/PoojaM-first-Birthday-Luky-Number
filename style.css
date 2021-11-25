@@ -8,6 +8,7 @@ h1{
     text-align: center;
     margin-top: 4rem;
     color:#873600;
+    font-size: 45px;
 }
 
 #check-number
@@ -50,6 +51,7 @@ input
 {
     height: 3rem;
     border-radius: 8px;
+    font-size: 20px;
 }
 
 
@@ -62,19 +64,21 @@ input
      margin-left: 32%;
      border-radius: 8px;
      margin-top: 2rem;
-     color: black;
+     color: #873600;
      background-color: ghostwhite;
+     padding-left: 20px;
+     font-size: 22px;
 
 }
 #lucky-number1
 {
     color:#873600;
-      font-size: 30px;
+      font-size: 27px;
 }
 #date-of-birthday
 {
     color:#873600;
-    font-size: 30px;
+    font-size: 27px;
 }
 
 #lucky-number{

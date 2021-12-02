@@ -116,17 +116,18 @@ a{
 .container2
 {
   border: 1px solid black;
-  width: 38%;
+  width: 37%;
   margin-left: 31%;
   margin-top: 20px;
-  padding-left: 20px;
+  padding-left: 30px;
   border-radius: 8px;
   color: #873600;
   background-color: white;
 }
 
 h2{
-  padding-left:110px;
+  /* padding-left:110px; */
+  text-align: center;
 }
 
 

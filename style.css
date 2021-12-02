@@ -47,6 +47,14 @@ input
 
 
 
+
+
+
+
+
+
+
+
 #date-of-birth
 {
     height: 3rem;
@@ -86,3 +94,22 @@ input
   border-radius: 8px;
 
 }
+
+#container
+{
+  border: 1px solid black;
+  width: 39%;
+  margin-top: 20px;
+  margin-left: 32%;
+ border-radius: 8px;
+ height: 6%;
+ padding-top: 8px;
+ text-align: center;
+ font-size: 22px;
+}
+
+a{
+  text-decoration: none;
+  color: #873600;
+}
+
